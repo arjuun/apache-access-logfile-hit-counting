@@ -1,4 +1,4 @@
-### apache-access-logfile-hit-counting
+### Apache-access-logfile-hit-counting
 
 #### This repo has the python script for counting number of IP hits in an Apache access log file
 

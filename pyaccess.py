@@ -2,7 +2,7 @@ import sys
 import os
 
 arguments = sys.argv
-usage = 'pyaccess.py  /path/to/access.log  min_hit_count '
+usage = 'pyaccess.py  /var/log/apache2/access.log  min_hit_count '
 
 if len(arguments) == 3:
     
